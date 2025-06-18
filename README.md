@@ -22,7 +22,7 @@ The dataset used is `BostonHousing.csv`, which contains housing data for areas i
 ### The response/ target variable is:
 - `MEDV`: Median value of owner-occupied homes in $1000s
 
-## 🛠️ Requirements
+## Requirements
 - Python 3.x
 - pandas
 - scikit-learn
