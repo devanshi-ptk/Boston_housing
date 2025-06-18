@@ -2,7 +2,7 @@
 
 This project demonstrates the application of a Linear Regression model using the Boston Housing dataset. The model predicts the **median value of owner-occupied homes** based on various housing and environmental features.
 
-## 📁 Dataset
+## Dataset
 
 The dataset used is `BostonHousing.csv`, which contains housing data for areas in Boston. It includes 11 features and 1 target variable:
 
